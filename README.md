@@ -19,11 +19,7 @@ I'm interested in healthcare, transportation and trains.
 
 ## Tech Stack
 
-**Frameworks & Libraries**
-
 PyTorch • TensorFlow • Pandas • NumPy • React • Node.js • Django
-
-**Tools & Platforms**
 
 Git • Kubernetes • REST APIs • Jupyter • Power BI • SQL Server • CUDA
 
@@ -36,13 +32,5 @@ Git • Kubernetes • REST APIs • Jupyter • Power BI • SQL Server • CUD
 **AI Intern — PreVue.ai**
 
 **Application Developer — Naviant**
-
----
-
-## Connect With Me
-
-- Email: jojmoussa@outlook.com  
-- GitHub: https://github.com/jmoussa99  
-- LinkedIn: www.linkedin.com/in/jamal-moussa
 
 ---
