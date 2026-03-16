@@ -1,5 +1,3 @@
-# Hi, I'm Jamal Moussa
-
 ## About Me
 I enjoy building AI systems, data pipelines, and full-stack applications.
 I'm interested in healthcare, transportation and trains.
