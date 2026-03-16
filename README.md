@@ -11,10 +11,9 @@ I'm interested in healthcare, transportation and trains.
 
 ## About Me
 
-- Master's student in **Artificial Intelligence at Northwestern University** :contentReference[oaicite:0]{index=0}  
-- Background in **Computer Science and Applied Mathematics at the University of Wisconsin Madison** :contentReference[oaicite:1]{index=1}  
-- Interested in **machine learning, LLM systems, and AI-driven applications**
-- Previously worked as a **software developer and AI intern building production systems and ML pipelines** :contentReference[oaicite:2]{index=2}  
+- Master's student in **Artificial Intelligence at Northwestern University**
+- Background in **Computer Science and Applied Mathematics at the University of Wisconsin Madison** 
+- Previously worked as a **software developer and AI intern building production systems and ML pipelines**
 
 ---
 
@@ -34,18 +33,9 @@ Git • Kubernetes • REST APIs • Jupyter • Power BI • SQL Server • CUD
 
 **Applied AI + Machine Learning Research Intern — SyBridge Technologies**
 
-- Built anomaly detection models using **Autoencoders + Gaussian Mixture Models**
-- Processed IoT sensor data pipelines using **Azure Functions and SQL**
-
 **AI Intern — PreVue.ai**
 
-- Fine-tuned ML models improving prediction accuracy for social media engagement
-- Optimized SQL indexing to significantly reduce query time
-
 **Application Developer — Naviant**
-
-- Built **ASP.NET applications and API integrations**
-- Developed SQL pipelines powering **Power BI analytics dashboards**
 
 ---
 
